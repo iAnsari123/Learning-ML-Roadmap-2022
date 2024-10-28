@@ -1,0 +1,11 @@
+en:avocadoes
+en:avocados
+en:fresh-foods
+en:fresh-vegetables
+en:fruchte
+en:fruits
+en:tropical-fruits
+en:raw-green-avocados
+en:tropische-fruchte
+en:vegetables-based-foods
+fr:hass-avocados
